@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">mapa temuco</string>
+    <string name="title_activity_maps1">Map</string>
+    <string name="marker_detail_latlng" translatable="false">(%1$.2f,%2$)</string>
+</resources>
