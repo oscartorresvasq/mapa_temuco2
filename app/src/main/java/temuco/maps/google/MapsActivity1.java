@@ -64,7 +64,7 @@ public class MapsActivity1 extends AppCompatActivity implements GoogleMap.OnMark
         LatLng gpspunto =new LatLng( -38.735119 , -72.602178);
         markerDrag = googleMap.addMarker(new MarkerOptions()
                 .position(gpspunto)
-                .title("Universidad Santo Tomas")
+                .title("Universidad g Santo Tomas")
                 .draggable(true)
         );
 
